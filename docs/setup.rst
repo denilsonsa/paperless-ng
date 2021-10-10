@@ -99,7 +99,7 @@ The ansible route combines benefits of both options:
 the setup process is fully automated, reproducible and `idempotent <https://docs.ansible.com/ansible/latest/reference_appendices/glossary.html#Idempotency>`_,
 it includes the same sensible defaults, and it simultaneously provides the flexibility of a bare metal installation.
 
-.. _CLI Basics: https://sehn.tech/post/devops-with-docker/
+.. _CLI Basics: https://www.sehn.tech/refs/devops-with-docker/
 .. _idempotent: https://docs.ansible.com/ansible/latest/reference_appendices/glossary.html#Idempotency
 
 .. _setup-docker_script:
